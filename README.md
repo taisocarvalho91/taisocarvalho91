@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taisocarvalho91
-- 👀 I’m interested in aprender
+- Estou Cursando o 8° período de Ciência da Computação
 - 🌱 I’m currently learning Javascript,HTML ,CSS,...
 - 📫 How to reach me taisocarvalhocampos@gmail.com  24999562505
 
